@@ -12,12 +12,16 @@ Each day combines conceptual deep dives with hands-on examples and practical gui
 # How does the intensive work?
 Everyday, participants will receive the following information:
 - 📚 Daily Assignments
+
 This includes the whitepapers, a companion podcast and companion codelabs that you can complete at your own pace.
 - 💬 Discord Discussion
+
 Kaggle’s Discord server will have a dedicated channel for focused discussion during the event. It's an excellent place to find further clarification, surface any questions, and connect with other learners and Google experts.
 - 🎥 Daily Livestreams and AMAs
+
 We will go live everyday on Kaggle's YouTube channel, where the authors and course contributors will dive deeper into the topics and answer your questions. Plus, we've got fun surprises in store to keep the learning engaging.
 - 💻 Capstone Project
+
 Level up your skills and strengthen your portfolio with a real-world capstone project. At the end of the 5-day course, you’ll have the opportunity to participate and compete for prizes such as Kaggle certificates, badges, swag, and recognition across Kaggle and Google’s social media channels. Participation will be optional - you’ll learn more about the capstone project during the course.
 
 # What's being covered?
